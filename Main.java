@@ -3,7 +3,7 @@ package gitlet;
 import java.io.File;
 import java.util.Date;
 
-/** Driver class for Git-lite
+/** Driver class for GitLite
  *  @author Troy Burad
  */
 public class Main {
