@@ -1,5 +1,5 @@
-# Git-Lite
-A lite-version of the widely used version-control system Git. In this implementation, Git-Lite uses tree like data structures to store "blobs" of 
+# Gitlet
+A lite-version of the widely used version-control system Git. In this implementation, Gitlet uses tree like data structures to store "blobs" of 
 information containing file contents. Commits and switching between different branches are supported.
 ## Supported Commands
 ### - `init`
