@@ -13,12 +13,12 @@ javac gitlet.Main init
 ```
 3. Execute supported commands
 ```
-javac gitlet.Main init
+java gitlet.Main [command] [args]
 ```
 ## Supported Commands
 ### - `init`
 ```
-java gitlet.Main [command] [args]
+javac gitlet.Main init
 ```
 Creates a new Gitlet version-control system in the current directory.
 ### - `add`
