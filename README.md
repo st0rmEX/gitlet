@@ -1,10 +1,24 @@
 # Gitlet
 A lite-version of the widely used version-control system Git. In this implementation, Gitlet uses tree like data structures to store "blobs" of 
 information containing file contents. Commits and switching between different branches are supported.
+## Usage
+After you cd into the right directory:
+1. Compile your files
+```
+javac gitlet/Main.java
+```
+2. Initialize your git folder
+```
+javac gitlet.Main init
+```
+3. Execute supported commands
+```
+javac gitlet.Main init
+```
 ## Supported Commands
 ### - `init`
 ```
-java gitlet.Main init
+java gitlet.Main [command] [args]
 ```
 Creates a new Gitlet version-control system in the current directory.
 ### - `add`
